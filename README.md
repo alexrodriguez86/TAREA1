@@ -7,4 +7,5 @@
 
  for k=1:5
      valor=k+1
+     VALOR2=valor+k
  end
