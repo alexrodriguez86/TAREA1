@@ -7,4 +7,6 @@
 
  for k=1:5
      valor=k+1
+     v_acum=valor+k
  end
+ 
